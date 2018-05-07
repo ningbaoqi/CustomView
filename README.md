@@ -19,3 +19,6 @@
 ![image](https://github.com/ningbaoqi/CustomView/blob/master/gif/pull2.gif)
 ![image](https://github.com/ningbaoqi/CustomView/blob/master/gif/pull3.gif)
 ![image](https://github.com/ningbaoqi/CustomView/blob/master/gif/pull4.gif)
+
+#### 侧滑菜单
+![image](https://github.com/ningbaoqi/CustomView/blob/master/gif/sliding.gif)
