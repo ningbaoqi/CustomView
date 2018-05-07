@@ -10,3 +10,6 @@
 #### 自定义下拉列表
 ![image](https://github.com/ningbaoqi/CustomView/blob/master/gif/down3.gif)
 ![image](https://github.com/ningbaoqi/CustomView/blob/master/gif/down4.gif)
+
+#### 自定义开关
+![image](https://github.com/ningbaoqi/CustomView/blob/master/gif/switcher.gif)
