@@ -13,3 +13,9 @@
 
 #### 自定义开关
 ![image](https://github.com/ningbaoqi/CustomView/blob/master/gif/switcher.gif)
+
+#### 自定义下拉刷新列表控件
+![image](https://github.com/ningbaoqi/CustomView/blob/master/gif/pull1.gif)
+![image](https://github.com/ningbaoqi/CustomView/blob/master/gif/pull2.gif)
+![image](https://github.com/ningbaoqi/CustomView/blob/master/gif/pull3.gif)
+![image](https://github.com/ningbaoqi/CustomView/blob/master/gif/pull4.gif)
