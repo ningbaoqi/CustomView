@@ -22,3 +22,6 @@
 
 #### 侧滑菜单
 ![image](https://github.com/ningbaoqi/CustomView/blob/master/gif/sliding.gif)
+
+#### 使用自定义属性和回调机制实现UI模版
+![image](https://github.com/ningbaoqi/CustomView/blob/master/gif/ui.gif)
