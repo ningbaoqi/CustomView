@@ -28,3 +28,6 @@
 
 #### 自定义ViewGroup实现流式布局和热门标签
 ![image](https://github.com/ningbaoqi/CustomView/blob/master/gif/vi.gif)
+#### 自定义View实现进度条
+##### 水平进度条
+![image](https://github.com/ningbaoqi/CustomView/blob/master/gif/h.gif)

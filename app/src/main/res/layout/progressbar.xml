@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ningbaoqi="http://schemas.android.com/apk/res/ningbaoqi.com.customview"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <ningbaoqi.com.customviewother.HorizontalProgressBarWithProgress
+            android:id="@+id/progress"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp"
+            android:padding="15dp"
+            android:progress="0"
+            ningbaoqi:progress_text_color="#44ff0000"
+            ningbaoqi:progress_unreach_color="#ff000000"/>
+
+    </LinearLayout>
+</ScrollView>
