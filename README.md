@@ -25,3 +25,6 @@
 
 #### 使用自定义属性和回调机制实现UI模版
 ![image](https://github.com/ningbaoqi/CustomView/blob/master/gif/ui.gif)
+
+#### 自定义ViewGroup实现流式布局和热门标签
+![image](https://github.com/ningbaoqi/CustomView/blob/master/gif/vi.gif)
