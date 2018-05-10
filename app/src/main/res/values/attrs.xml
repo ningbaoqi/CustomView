@@ -30,4 +30,8 @@
         <attr name="progress_text_size"></attr>
         <attr name="progress_text_offset"></attr>
     </declare-styleable>
+
+    <declare-styleable name="RoundProgresBarWithProgress">
+        <attr name="radius" format="dimension"/>
+    </declare-styleable>
 </resources>

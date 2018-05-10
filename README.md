@@ -31,3 +31,5 @@
 #### 自定义View实现进度条
 ##### 水平进度条
 ![image](https://github.com/ningbaoqi/CustomView/blob/master/gif/h.gif)
+##### 圆形进度条
+![image](https://github.com/ningbaoqi/CustomView/blob/master/gif/c.gif)

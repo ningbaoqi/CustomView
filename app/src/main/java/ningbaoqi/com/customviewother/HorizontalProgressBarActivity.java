@@ -30,11 +30,13 @@ import ningbaoqi.com.customview.R;
 public class HorizontalProgressBarActivity extends AppCompatActivity {
 
     private HorizontalProgressBarWithProgress progressBarWithProgress;
+    private RoundProgresBarWithProgress roundProgresBarWithProgress;
     private Handler handler = new Handler() {
         @Override
         public void handleMessage(Message msg) {
             int progresss = progressBarWithProgress.getProgress();
             progressBarWithProgress.setProgress(++progresss);
+            roundProgresBarWithProgress.setProgress(++progresss);
             if (progresss >= 100) {
                 handler.removeMessages(1);
             } else {
@@ -48,6 +50,7 @@ public class HorizontalProgressBarActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.progressbar);
         progressBarWithProgress = (HorizontalProgressBarWithProgress) findViewById(R.id.progress);
+        roundProgresBarWithProgress = (RoundProgresBarWithProgress) findViewById(R.id.circlebar);
         handler.sendEmptyMessage(1);
     }
 }

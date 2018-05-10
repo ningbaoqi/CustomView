@@ -20,5 +20,15 @@
             ningbaoqi:progress_text_color="#44ff0000"
             ningbaoqi:progress_unreach_color="#ff000000"/>
 
+        <ningbaoqi.com.customviewother.RoundProgresBarWithProgress
+            android:id="@+id/circlebar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp"
+            android:padding="15dp"
+            android:progress="30"
+            ningbaoqi:progress_text_color="#44ff0000"
+            ningbaoqi:progress_unreach_color="#ff000000"
+            ningbaoqi:radius="20dp"/>
     </LinearLayout>
 </ScrollView>
