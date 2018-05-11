@@ -33,3 +33,7 @@
 ![image](https://github.com/ningbaoqi/CustomView/blob/master/gif/h.gif)
 ##### 圆形进度条
 ![image](https://github.com/ningbaoqi/CustomView/blob/master/gif/c.gif)
+
+##### 自定义View完成五子棋并包含视图数据恢复功能
+![image](https://github.com/ningbaoqi/CustomView/blob/master/gif/w1.gif)
+![image](https://github.com/ningbaoqi/CustomView/blob/master/gif/w2.gif)
